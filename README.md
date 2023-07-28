@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Django.**
+- 🌱 I’m currently learning **Frontend.**
 
 - 💬 Ask me about **Python,Django,Typescript,React,MySQL.**
 
