@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/waqar-akram-bhutta-0a2935235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqar-akram-bhutta-0a2935235" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/waqarakrambhutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqar-akram-bhutta-0a2935235" height="30" width="40" /></a>
 <a href="https://fb.com/waqar.akrambhutta.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waqar.akrambhutta.3" height="30" width="40" /></a>
 <a href="https://instagram.com/waqarakram22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqarakram22" height="30" width="40" /></a>
 </p>
