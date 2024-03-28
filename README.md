@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Cloud**
 - 💬 Ask me about **Python,Django,Typescript,React,MySQL,AWS,Docker.**
 
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
