@@ -67,16 +67,6 @@ _April 2024 – September 2024_
 - Developed reusable components for cross-platform web and mobile apps.
 - Implemented Redux for state management and optimized app performance.
 
----
-
-## 🚀 Featured Projects
-
-| Project                 | Description                                                                                    | Tech Stack                             |
-| :---------------------- | :--------------------------------------------------------------------------------------------- | :------------------------------------- |
-| **E-Commerce REST API** | End-to-end backend solution with product management, order processing, and JWT authentication. | Django, DRF, MySQL, Redis, Celery      |
-| **WEBBAB**              | Modern, CMS-driven website for a digital agency with dynamic content management.               | Next.js, TypeScript, Tailwind, TinaCMS |
-
----
 
 ## 📊 GitHub Stats
 
