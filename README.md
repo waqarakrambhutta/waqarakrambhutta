@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  I'm a Full Stack Software Engineer based in Lahore, Pakistan 🇵🇰, focused on building scalable web and mobile applications using Django, Next.js, and React.js. I'm passionate about writing efficient, clean code and continuously growing as an engineer.
+  I'm a Full Stack Software Engineer based in Pakistan 🇵🇰, focused on building scalable web and mobile applications using Django, Next.js, and React.js. I'm passionate about writing efficient, clean code and continuously growing as an engineer.
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ## 💼 Experience
 
-### **Full Stack Software Engineer** @ InTech Sky
+### **Software Engineer** @ InTech Sky
 
 _August 2025 – Present_
 
