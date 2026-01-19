@@ -10,9 +10,10 @@
   <a href="https://linkedin.com/in/waqarakrambhutta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:mail@waqar.dev">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="https://leetcode.com/u/waqarakrambhutta">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
+
 </p>
 
 <p align="center">
